@@ -7,3 +7,5 @@ The advantage of this editor over other editors is that it renders the output of
 # CRUX
 Textareas have been used for the editable panels and the output is shown with the help of iframe. The output is updated correspondingly with the help of contents().
 
+# OUTPUT
+A Screenshot of the output is available as output.png in this repository.
