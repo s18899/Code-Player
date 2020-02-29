@@ -8,4 +8,4 @@ The advantage of this editor over other editors is that it renders the output of
 Textareas have been used for the editable panels and the output is shown with the help of iframe. The output is updated correspondingly with the help of contents().
 
 # OUTPUT
-![alt text](http:///to/img.png)
+![alt text](https://github.com/s18899/Code-Player/blob/master/output.png/to/img.png)
